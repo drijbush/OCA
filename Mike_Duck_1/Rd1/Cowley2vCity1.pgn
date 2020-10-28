@@ -1,0 +1,126 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/RL64txMZ"]
+[Date "2020.10.26"]
+[White "Billstan"]
+[Black "PhilTH"]
+[Result "0-1"]
+[UTCDate "2020.10.26"]
+[UTCTime "19:42:32"]
+[WhiteElo "1500"]
+[BlackElo "1618"]
+[WhiteRatingDiff "-181"]
+[BlackRatingDiff "+30"]
+[Variant "Standard"]
+[TimeControl "2700+15"]
+[ECO "A80"]
+[Opening "Dutch Defense"]
+[Termination "Normal"]
+
+1. d4 f5 2. e3 Nf6 3. Bd3 g6 4. Nd2 Bg7 5. c3 O-O 6. Ngf3 Qe8 7. O-O d6 8. Nh4 e5 9. e4 f4 10. h3 Nc6 11. d5 Ne7 12. Nhf3 h6 13. Kh1 g5 14. Ng1 h5 15. g3 Ng6 16. Ndf3 Nh7 17. gxf4 Nxf4 18. Bxf4 Rxf4 19. Nh2 Qg6 20. f3 Rh4 21. Rf2 Bxh3 22. Nxh3 Rxh3 23. Qe2 Kh8 24. Rg1 Qf7 25. Rfg2 Bh6 26. Qf1 Rh4 27. Be2 Rf8 28. Qd1 Qd7 29. Qe1 Rh3 30. Rg3 Rh4 31. R3g2 Qe7 32. Qg3 Rg8 33. Rf1 Nf8 34. Rfg1 Ng6 35. Bd1 Rg7 36. Rf2 Nf4 37. b3 Nh3 0-1
+
+
+[Event "Rated Classical game"]
+[Site "https://lichess.org/2RDmzasI"]
+[Date "2020.10.26"]
+[White "KingpinEd"]
+[Black "Chessarf123"]
+[Result "1-0"]
+[UTCDate "2020.10.26"]
+[UTCTime "19:41:23"]
+[WhiteElo "1500"]
+[BlackElo "1737"]
+[WhiteRatingDiff "+479"]
+[BlackRatingDiff "-38"]
+[Variant "Standard"]
+[TimeControl "2700+15"]
+[ECO "B23"]
+[Opening "Sicilian Defense: Grand Prix Attack"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nc3 Nc6 3. f4 d6 4. Nf3 e6 5. g3 Nf6 6. Bg2 Be7 7. d3 e5 8. O-O Nd4 9. h3 Nh5 10. Nxd4 cxd4 11. Qxh5 dxc3 12. bxc3 exf4 13. gxf4 Qb6+ 14. Kh1 g6 15. Qe2 Bf6 16. e5 dxe5 17. fxe5 Bg7 18. Ba3 Qa6 19. Qf3 Be6 20. Bd6 Rd8 21. Rab1 b6 22. Qc6+ Bd7 23. Qd5 Be6 24. Rxf7 Bxd5 25. Re7+ Kf8 26. Rf1+ Bf7 27. Rfxf7+ Kg8 28. Rxg7+ Kf8 29. Ref7+ Ke8 30. Bc6+ Rd7 31. Rxd7 Qc8 32. Rc7+ Kd8 33. Rgd7+ Qxd7 34. Rxd7+ Kc8 35. Rxa7 Rf8 36. Ra8# 1-0
+
+
+[Event "Rated Classical game"]
+[Site "https://lichess.org/tPBu1HqL"]
+[Date "2020.10.26"]
+[White "KoKolwin"]
+[Black "MattBrown73"]
+[Result "0-1"]
+[UTCDate "2020.10.26"]
+[UTCTime "19:44:27"]
+[WhiteElo "1500"]
+[BlackElo "1500"]
+[WhiteRatingDiff "-242"]
+[BlackRatingDiff "+248"]
+[Variant "Standard"]
+[TimeControl "2700+15"]
+[ECO "B50"]
+[Opening "Sicilian Defense"]
+[Termination "Time forfeit"]
+
+1. e4 c5 2. Nf3 d6 3. Bc4 Nf6 4. Nc3 a6 5. Ng5 e6 6. O-O b5 7. Bd3 Be7 8. b3 Bb7 9. f4 h6 0-1
+
+
+[Event "Rated Classical game"]
+[Site "https://lichess.org/iKYJSlwY"]
+[Date "2020.10.26"]
+[White "RaffaRM"]
+[Black "tintu123"]
+[Result "0-1"]
+[UTCDate "2020.10.26"]
+[UTCTime "19:30:26"]
+[WhiteElo "1395"]
+[BlackElo "1714"]
+[WhiteRatingDiff "-16"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "2700+15"]
+[ECO "B03"]
+[Opening "Alekhine Defense: Exchange Variation"]
+[Termination "Normal"]
+
+1. e4 Nf6 2. e5 Nd5 3. c4 Nb6 4. d4 d6 5. exd6 cxd6 6. Nc3 g6 7. Nf3 Bg7 8. Bd2 Bg4 9. d5 O-O 10. h3 Bxf3 11. Qxf3 N8d7 12. Be2 Ne5 13. Qg3 Nbxc4 14. Bxc4 Nxc4 15. Bc1 e6 16. Qd3 exd5 17. Qxd5 Re8+ 18. Ne2 Rc8 19. Qf3 Qa5+ 20. Kf1 Nd2+ 21. Bxd2 Qxd2 22. Qb3 Qxe2+ 23. Kg1 Rc2 24. Qg3 Be5 25. Qh4 Rxb2 26. f4 Qxg2# 0-1
+
+
+[Event "Rated Classical game"]
+[Site "https://lichess.org/90ILBTYY"]
+[Date "2020.10.26"]
+[White "rtselos"]
+[Black "David_Keeling"]
+[Result "1/2-1/2"]
+[UTCDate "2020.10.26"]
+[UTCTime "19:31:02"]
+[WhiteElo "1500"]
+[BlackElo "1500"]
+[WhiteRatingDiff "+0"]
+[BlackRatingDiff "+0"]
+[Variant "Standard"]
+[TimeControl "2700+15"]
+[ECO "B44"]
+[Opening "Sicilian Defense: Paulsen Variation, Szén Variation"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nb5 a6 6. Nd6+ Bxd6 7. Qxd6 Nge7 8. Nc3 O-O 9. Qg3 d5 10. Bd3 d4 11. Ne2 e5 12. O-O Ng6 13. f4 exf4 14. Nxf4 Nce5 15. Nxg6 Nxg6 16. Bd2 Be6 17. Bg5 Qb6 18. h4 h5 19. b3 Bg4 20. Rf2 f6 21. Bd2 Ne5 22. Kh1 Rae8 23. Be2 Bxe2 24. Rxe2 Qe6 25. Rf1 Qg4 26. Qxg4 Nxg4 27. Bb4 Rf7 28. Rf5 Re5 29. Bd6 Rxf5 30. exf5 Ne3 31. Rf2 Rd7 32. Bc5 Rd5 33. b4 Rxf5 34. Rxf5 Nxf5 35. a4 Kf7 36. Kg1 Ke6 37. Kf2 Kd5 38. g3 Kc4 39. Kf3 a5 40. Kf4 Ne3 41. Bf8 axb4 42. Bxg7 Kc3 43. Bf8 Kxc2 44. Bxb4 Nd5+ 45. Ke4 Nxb4 46. Kxd4 Kb3 47. g4 hxg4 48. h5 g3 49. Ke3 Nd5+ 50. Kf3 g2 51. Kf2 Nf4 52. h6 Kxa4 53. h7 Ng6 54. Kxg2 b5 55. Kf3 b4 56. Kg4 b3 57. Kf5 Nh8 58. Kxf6 b2 59. Kg7 b1=Q 60. Kxh8 Qb8+ 61. Kg7 Qc7+ 62. Kg8 Qd8+ 63. Kg7 Qe7+ 64. Kg8 Qe6+ 65. Kg7 1/2-1/2
+
+
+[Event "Rated Classical game"]
+[Site "https://lichess.org/H0TTsUbq"]
+[Date "2020.10.26"]
+[White "TIMJKING"]
+[Black "HakStar123"]
+[Result "1-0"]
+[UTCDate "2020.10.26"]
+[UTCTime "19:29:46"]
+[WhiteElo "1500"]
+[BlackElo "1500"]
+[WhiteRatingDiff "+248"]
+[BlackRatingDiff "-242"]
+[Variant "Standard"]
+[TimeControl "2700+15"]
+[ECO "C80"]
+[Opening "Ruy Lopez: Open Variations"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 b5 5. Bb3 Nf6 6. O-O Nxe4 7. d4 Bd6 8. Re1 Nf6 9. dxe5 Nxe5 10. Nxe5 O-O 11. Bg5 h6 12. Nxf7 Rxf7 13. Bxf7+ Kxf7 14. Bxf6 Qxf6 15. Qd5+ Kf8 16. Qxa8 Qd8 17. Qf3+ Kg8 18. Nc3 Bb4 19. Qd5+ Kf8 20. Re3 c6 21. Rf3+ Ke8 22. Re1+ Be7 23. Qg8# 1-0
+
+
