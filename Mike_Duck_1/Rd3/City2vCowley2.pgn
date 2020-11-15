@@ -1,0 +1,120 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/FZwNT5HV"]
+[Date "2020.11.09"]
+[White "Chessarf123"]
+[Black "SEKING2"]
+[Result "1-0"]
+[UTCDate "2020.11.09"]
+[UTCTime "19:49:30"]
+[WhiteElo "1699"]
+[BlackElo "1625"]
+[WhiteRatingDiff "+32"]
+[BlackRatingDiff "-111"]
+[Variant "Standard"]
+[TimeControl "2700+15"]
+[ECO "C35"]
+[Termination "Normal"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 Be7 4. Bc4 Bh4+ 5. Kf1 d6 6. d4 Bg5 7. Nxg5 Qxg5 8. Qf3 Bg4 9. Qxf4 Qxf4+ 10. Bxf4 Nc6 11. c3 O-O-O 12. h3 Be6 13. d5 Na5 14. Bd3 1-0
+
+
+[Event "Rated Classical game"]
+[Site "https://lichess.org/x4yur8ao"]
+[Date "2020.11.09"]
+[White "JanMur7"]
+[Black "Billstan"]
+[Result "1-0"]
+[UTCDate "2020.11.09"]
+[UTCTime "19:28:42"]
+[WhiteElo "1502"]
+[BlackElo "1404"]
+[WhiteRatingDiff "+37"]
+[BlackRatingDiff "-90"]
+[Variant "Standard"]
+[TimeControl "2700+15"]
+[ECO "D31"]
+[Termination "Normal"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c6 4. Nf3 Bd6 5. Bg5 Nf6 6. e3 Nbd7 7. c5 Bc7 8. b4 O-O 9. a4 Qe8 10. Qb3 Ne4 11. Bh4 f5 12. Bg3 e5 13. Nxe4 fxe4 14. Nd2 Qf7 15. Be2 Kh8 16. O-O Qf6 17. f3 Qg5 18. fxe4 Nf6 19. exd5 cxd5 20. Nf3 Qg4 21. Qa2 Be6 22. Nxe5 Qe4 23. Qd2 Bxe5 24. Bxe5 Ng4 25. Bf4 Nf6 26. Bd3 1-0
+
+
+[Event "Rated Classical game"]
+[Site "https://lichess.org/Nb1f6jap"]
+[Date "2020.11.09"]
+[White "Ivonas1"]
+[Black "AbhishekBadhe29"]
+[Result "1/2-1/2"]
+[UTCDate "2020.11.09"]
+[UTCTime "19:27:14"]
+[WhiteElo "1500"]
+[BlackElo "1830"]
+[WhiteRatingDiff "+251"]
+[BlackRatingDiff "-14"]
+[Variant "Standard"]
+[TimeControl "2700+15"]
+[ECO "C78"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bc5 7. d3 h6 8. c3 d6 9. h3 O-O 10. Nbd2 Be6 11. Kh1 Bxb3 12. Nxb3 Bb6 13. Be3 Ba7 14. Qd2 Re8 15. g4 Bxe3 16. Qxe3 Nh7 17. h4 Re6 18. Rg1 g5 19. h5 Qd7 20. d4 exd4 21. cxd4 Rf6 22. Rac1 Rf4 23. Nh2 Nf6 24. f3 Re8 25. Qc3 Nd8 26. Qxc7 Re7 27. Qb6 Qb7 28. Qxd8+ Kg7 29. Qxd6 Rfxe4 30. Qc6 Qxc6 31. Rxc6 Re2 32. Rxa6 Rxb2 33. Nc1 Nd5 34. Nf1 Nf4 35. Ng3 Nh3 36. Nf5+ Kf8 37. Nxe7 Kxe7 38. Re1+ Kf8 39. d5 Nf2+ 40. Kg1 Nh3+ 41. Kh1 Nf2+ 42. Kg2 Nxg4+ 43. Kg3 Nh2 44. Re2 Nf1+ 45. Kf2 Nd2 46. Nb3 Nc4 47. Rxb2 Nxb2 48. Rxh6 Nd3+ 49. Ke3 Nf4 50. Rb6 Nxd5+ 51. Kd4 Nxb6 52. Kc5 Nc4 53. Kxb5 Na3+ 54. Kc5 Kg7 55. Kd4 Kh6 56. Ke5 Kxh5 57. Nd4 Kg6 58. f4 Nc4+ 59. Ke4 f5+ 60. Nxf5 gxf4 61. Kxf4 Kf6 62. Nd4 Ke7 63. Ke4 Kd6 64. Kd3 Na3 65. Kc3 Kc5 66. Nc2 Nxc2 67. Kxc2 Kb5 68. Kb3 Ka5 69. a4 Ka6 70. Kb4 Kb6 71. a5+ Ka6 72. Ka4 Ka7 73. Kb5 Kb7 74. a6+ Ka7 75. Ka5 Ka8 76. Kb6 Kb8 77. a7+ Ka8 78. Ka6 1/2-1/2
+
+
+[Event "Rated Classical game"]
+[Site "https://lichess.org/hvSgnZcE"]
+[Date "2020.11.09"]
+[White "KariAndresson"]
+[Black "johnburgess1024"]
+[Result "0-1"]
+[UTCDate "2020.11.09"]
+[UTCTime "19:25:25"]
+[WhiteElo "1284"]
+[BlackElo "1084"]
+[WhiteRatingDiff "-32"]
+[BlackRatingDiff "+316"]
+[Variant "Standard"]
+[TimeControl "2700+15"]
+[ECO "C50"]
+[Termination "Normal"]
+
+1. e4 Nf6 2. Nc3 e5 3. Nf3 Nc6 4. Bc4 Bc5 5. O-O O-O 6. a3 d6 7. d3 Bg4 8. h3 Be6 9. Bxe6 fxe6 10. Be3 Nd4 11. Na4 Nxf3+ 12. Qxf3 Nd7 13. Nxc5 Rxf3 14. gxf3 Nxc5 15. Kh1 Qf6 16. f4 exf4 17. Bd2 e5 18. f3 b6 19. Rg1 Ne6 20. Kh2 Ng5 21. Raf1 Qh6 22. Rxg5 Qxg5 23. Rg1 Qh6 24. Rg4 Rf8 25. Be1 Rf6 26. Rh4 Qg5 27. Rg4 Qh5 28. Rh4 Qxf3 29. Rg4 Rg6 30. Rxg6 hxg6 31. Bh4 g5 32. Bxg5 Qg3+ 33. Kh1 Qxg5 0-1
+
+
+[Event "Rated Classical game"]
+[Site "https://lichess.org/8Ur4tta4"]
+[Date "2020.11.09"]
+[White "KoKolwin"]
+[Black "AgustinRB"]
+[Result "1-0"]
+[UTCDate "2020.11.09"]
+[UTCTime "19:42:50"]
+[WhiteElo "1515"]
+[BlackElo "1258"]
+[WhiteRatingDiff "+93"]
+[BlackRatingDiff "-112"]
+[Variant "Standard"]
+[TimeControl "2700+15"]
+[ECO "C20"]
+[Termination "Normal"]
+
+1. e4 e5 2. h3 d5 3. d4 Nc6 4. exd5 Qxd5 5. Nf3 exd4 6. c3 Bc5 7. cxd4 Nxd4 8. Nc3 Nxf3+ 9. Qxf3 Qxf3 10. gxf3 Nf6 11. Nb5 Bb6 12. Bg5 Nd5 13. O-O-O c6 14. Nd6+ Kf8 15. Bc4 h6 16. Bxd5 hxg5 17. Bxf7 Bxf2 18. Bg6 Be3+ 19. Kb1 Rh6 20. Rde1 Bf4 21. Re8# 1-0
+
+
+[Event "Rated Classical game"]
+[Site "https://lichess.org/0AvBGhkP"]
+[Date "2020.11.09"]
+[White "luke1533"]
+[Black "HakStar123"]
+[Result "0-1"]
+[UTCDate "2020.11.09"]
+[UTCTime "19:50:14"]
+[WhiteElo "1258"]
+[BlackElo "1258"]
+[WhiteRatingDiff "-188"]
+[BlackRatingDiff "+193"]
+[Variant "Standard"]
+[TimeControl "2700+15"]
+[ECO "C50"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Be7 4. O-O b6 5. Nc3 Bc5 6. d3 f6 7. a3 a5 8. Nb5 Ba6 9. Bd2 Nh6 10. b4 axb4 11. axb4 Bxb4 12. Nxc7+ Qxc7 13. Bxa6 O-O 14. Bc4+ Kh8 15. Bxh6 gxh6 16. Nh4 Bc3 17. Rb1 Nd4 18. Bd5 Ra5 19. Nf5 Nxf5 20. Qg4 Ne7 21. Bc4 d5 22. exd5 Ra4 23. Qe6 Nc8 24. Rb2 Bxb2 25. Rb1 b5 26. Bxb5 Ra5 27. Rxb2 Ra1+ 28. Rb1 Rxb1# 0-1
+
+
