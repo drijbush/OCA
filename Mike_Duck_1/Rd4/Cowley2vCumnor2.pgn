@@ -1,0 +1,120 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/yXjCIrpA"]
+[Date "2020.11.16"]
+[White "JohnPlace"]
+[Black "enforcer1"]
+[Result "1-0"]
+[UTCDate "2020.11.16"]
+[UTCTime "19:29:48"]
+[WhiteElo "1953"]
+[BlackElo "1630"]
+[WhiteRatingDiff "+42"]
+[BlackRatingDiff "-15"]
+[Variant "Standard"]
+[TimeControl "2700+15"]
+[ECO "A04"]
+[Termination "Normal"]
+
+1. Nf3 c6 2. b3 d5 3. Bb2 Nf6 4. e3 g6 5. d4 Bg7 6. h3 h5 7. c4 O-O 8. Bd3 Re8 9. O-O Nbd7 10. Qc2 e6 11. Nbd2 b6 12. e4 dxe4 13. Nxe4 Nxe4 14. Bxe4 Bb7 15. Rad1 Qc7 16. Rfe1 Rad8 17. Bxg6 fxg6 18. Qxg6 Nf8 19. Qxh5 Qf7 20. Qg4 Qg6 21. Ng5 Bc8 22. h4 Nh7 23. Qe4 Qxe4 24. Nxe4 c5 25. Ba3 cxd4 26. Nd6 e5 27. Nxe8 Rxe8 28. Rxd4 Kf7 29. Rdd1 Nf8 30. c5 bxc5 31. Bxc5 Be6 32. Rd6 Nd7 33. Be3 Bf8 34. Ra6 Bb4 35. Rd1 Nc5 36. Rxa7+ Re7 37. Ra8 Ne4 38. Rb8 Bd6 39. Ra8 Nc3 40. Rxd6 Ne4 41. Rdd8 Rc7 42. Rf8+ Kg7 43. Rfe8 Kf7 44. Rh8 Kg7 45. Bh6+ Kg6 46. h5+ Kf5 47. Raf8+ Bf7 48. Rh7 Ke6 49. Be3 Nf6 50. Rfxf7 Rxf7 51. Rxf7 Kxf7 52. h6 Ke6 53. a4 Kd5 54. Kf1 Kc6 55. b4 e4 56. b5+ Kb7 57. Ke2 Nh7 58. a5 Kb8 59. b6 Kb7 60. g4 Ka6 61. Bd2 Kb7 62. g5 1-0
+
+
+[Event "Rated Classical game"]
+[Site "https://lichess.org/bWu9MUE0"]
+[Date "2020.11.16"]
+[White "David_Keeling"]
+[Black "GarethS"]
+[Result "0-1"]
+[UTCDate "2020.11.16"]
+[UTCTime "19:28:36"]
+[WhiteElo "1642"]
+[BlackElo "1641"]
+[WhiteRatingDiff "-156"]
+[BlackRatingDiff "+62"]
+[Variant "Standard"]
+[TimeControl "2700+15"]
+[ECO "B45"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 Nc6 3. Nc3 e6 4. d4 cxd4 5. Nxd4 d5 6. exd5 exd5 7. Bb5 Bd7 8. Qe2+ Qe7 9. Qxe7+ Ngxe7 10. O-O Nxd4 11. Bxd7+ Kxd7 12. a3 Nxc2 13. Ra2 Nd4 14. Rd1 Ne6 15. Nxd5 Nxd5 16. Rxd5+ Kc6 17. Rd3 Rd8 18. Rc3+ Kd7 19. Be3 b6 20. b4 Bd6 21. Rd2 Ke7 22. g3 Be5 0-1
+
+
+[Event "Rated Classical game"]
+[Site "https://lichess.org/rHsAKfGV"]
+[Date "2020.11.16"]
+[White "robincarr"]
+[Black "Ivonas1"]
+[Result "1-0"]
+[UTCDate "2020.11.16"]
+[UTCTime "19:28:12"]
+[WhiteElo "1346"]
+[BlackElo "1751"]
+[WhiteRatingDiff "+303"]
+[BlackRatingDiff "-334"]
+[Variant "Standard"]
+[TimeControl "2700+15"]
+[ECO "D43"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 c6 5. cxd5 cxd5 6. e3 Nc6 7. Bd3 a6 8. O-O Bd6 9. Re1 O-O 10. a3 Bd7 11. Bd2 Rc8 12. Rc1 b5 13. e4 dxe4 14. Nxe4 Nxe4 15. Bxe4 h6 16. Bc3 Qc7 17. d5 exd5 18. Bxd5 Rfe8 19. Qb3 Rxe1+ 20. Rxe1 Rf8 21. h3 Ne7 22. Be4 Be6 23. Qc2 Nd5 24. Bxd5 Bxd5 25. Nh4 g6 26. Qd3 Bc4 27. Qd4 f6 28. Nxg6 Rf7 29. Nh4 Qc5 30. Qg4+ Qg5 31. Nf5 Qxg4 32. Nxh6+ Kh7 33. Nxg4 Kg6 34. Rd1 Be7 35. Ne3 Bb3 36. Rd3 Be6 37. Nd5 Bc5 38. Nf4+ Kf5 39. Nxe6 Kxe6 40. g4 Be7 41. f4 Rg7 42. Kf2 Kf7 43. Kg3 f5 44. Bxg7 Kxg7 45. g5 1-0
+
+
+[Event "Rated Classical game"]
+[Site "https://lichess.org/DdqF0yXp"]
+[Date "2020.11.16"]
+[White "johnburgess1024"]
+[Black "stevebennett"]
+[Result "0-1"]
+[UTCDate "2020.11.16"]
+[UTCTime "19:30:06"]
+[WhiteElo "1400"]
+[BlackElo "1246"]
+[WhiteRatingDiff "-167"]
+[BlackRatingDiff "+160"]
+[Variant "Standard"]
+[TimeControl "2700+15"]
+[ECO "C41"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 d6 3. d4 exd4 4. Nxd4 Nf6 5. Nc3 Bd7 6. Be2 Be7 7. O-O Nc6 8. Nf5 Bxf5 9. exf5 O-O 10. Be3 d5 11. Nb5 a6 12. Nd4 Ne5 13. b3 c5 14. Nf3 Nc6 15. c4 d4 16. Bd2 d3 17. Bg5 dxe2 18. Qxe2 Re8 19. Rad1 Qc8 20. Qc2 Qc7 21. h3 h6 22. Be3 Bd6 23. Qc1 Ne7 24. Bxh6 Nxf5 25. Qg5 Nxh6 0-1
+
+
+[Event "Rated Classical game"]
+[Site "https://lichess.org/23UAWjTb"]
+[Date "2020.11.16"]
+[White "theRookCrook"]
+[Black "littlemorphy2010"]
+[Result "1-0"]
+[UTCDate "2020.11.16"]
+[UTCTime "19:31:31"]
+[WhiteElo "1712"]
+[BlackElo "1367"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-12"]
+[Variant "Standard"]
+[TimeControl "2700+15"]
+[ECO "C70"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 b5 5. Bb3 a5 6. c3 a4 7. Bc2 Nf6 8. O-O Bc5 9. d4 exd4 10. cxd4 Bb6 11. Bg5 h6 12. Bh4 O-O 13. h3 d5 14. e5 g5 15. exf6 gxh4 16. Qd3 Qxf6 17. Qh7# 1-0
+
+
+[Event "Rated Classical game"]
+[Site "https://lichess.org/dJ646AyE"]
+[Date "2020.11.16"]
+[White "dubiousOx"]
+[Black "MarkCrittenden"]
+[Result "0-1"]
+[UTCDate "2020.11.16"]
+[UTCTime "19:28:49"]
+[WhiteElo "1210"]
+[BlackElo "1251"]
+[WhiteRatingDiff "-163"]
+[BlackRatingDiff "+167"]
+[Variant "Standard"]
+[TimeControl "2700+15"]
+[ECO "C46"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. d3 Bb4 5. Bd2 O-O 6. a3 Ba5 7. b4 Bb6 8. b5 Ne7 9. a4 c6 10. a5 Bc5 11. Be3 Bb4 12. Qd2 Bxa5 13. Be2 cxb5 14. O-O b4 15. Nb1 Nc6 16. d4 d6 17. d5 b3 18. Qc1 Ne7 19. cxb3 a6 20. Bd2 Bxd2 21. Qxd2 Nxe4 22. Qc1 Bf5 23. Nh4 Bd7 24. Qe3 Nf6 25. Bc4 Nfxd5 26. Bxd5 Nxd5 27. Qd2 Bc6 28. Rc1 Qxh4 29. g3 Qd4 30. Qxd4 exd4 31. Re1 Nb4 32. Ra2 Nxa2 33. Re2 Nc3 34. Nxc3 dxc3 35. Rc2 Rae8 36. Kf1 Bb5+ 37. Kg2 Rc8 38. f4 Rfe8 39. Kf2 Re2+ 40. Rxe2 Bxe2 41. Kxe2 c2 42. Ke3 c1=Q+ 43. Ke4 Qe1+ 44. Kf3 Re8 45. Kg4 Qe2+ 46. Kh3 Qh5+ 47. Kg2 Re2+ 48. Kf1 Qxh2 49. g4 Qf2# 0-1
+
+

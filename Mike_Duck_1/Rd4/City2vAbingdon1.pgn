@@ -1,0 +1,120 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/mgN90xiz"]
+[Date "2020.11.16"]
+[White "SebWatkins"]
+[Black "JanMur7"]
+[Result "0-1"]
+[UTCDate "2020.11.16"]
+[UTCTime "19:28:30"]
+[WhiteElo "1385"]
+[BlackElo "1539"]
+[WhiteRatingDiff "-114"]
+[BlackRatingDiff "+28"]
+[Variant "Standard"]
+[TimeControl "2700+15"]
+[ECO "D37"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bf4 O-O 6. e3 b6 7. Bd3 Bb7 8. O-O Nbd7 9. Nb5 c5 10. Rc1 cxd4 11. exd4 dxc4 12. Bxc4 Rc8 13. Nxa7 Ra8 14. Nb5 Ba6 15. Nc7 Bxc4 16. Rxc4 Rxa2 17. Qb3 Ra5 18. Qc2 Nd5 19. Bg3 Nxc7 20. Bxc7 Qa8 21. Ne5 Nxe5 22. dxe5 Bc5 23. b4 Ra2 24. Qc1 Bxf2+ 25. Kh1 b5 26. Rc2 Be3 27. Qd1 Rxc2 28. Qxc2 Rc8 29. Qe2 Rxc7 30. Qxe3 Qd5 31. Qf4 Qc4 32. h3 Qxf4 33. Rxf4 Rc4 34. g3 Kf8 35. Kg1 Ke7 36. Rxc4 bxc4 37. Kf2 Kd7 38. Ke3 Kc6 39. Kd4 Kb5 40. Kc3 f6 41. exf6 gxf6 42. g4 h6 43. h4 e5 44. g5 fxg5 45. hxg5 hxg5 0-1
+
+
+[Event "Rated Classical game"]
+[Site "https://lichess.org/2bgMvPN7"]
+[Date "2020.11.16"]
+[White "andyante"]
+[Black "wdfrodo"]
+[Result "1-0"]
+[UTCDate "2020.11.16"]
+[UTCTime "19:31:47"]
+[WhiteElo "1407"]
+[BlackElo "1439"]
+[WhiteRatingDiff "+233"]
+[BlackRatingDiff "-38"]
+[Variant "Standard"]
+[TimeControl "2700+15"]
+[ECO "A40"]
+[Termination "Normal"]
+
+1. d4 e6 2. Bf4 c5 3. Nf3 d5 4. h3 Nc6 5. e3 Nf6 6. Nc3 Be7 7. Bb5 Bd7 8. O-O a6 9. Bxc6 Bxc6 10. a3 O-O 11. Qe2 Qd7 12. Rfd1 c4 13. Ne5 Qc8 14. Nxc6 Qxc6 15. Re1 b5 16. Rac1 Bd6 17. Bxd6 Qxd6 18. e4 Qc7 19. exd5 exd5 20. Qf3 Rad8 21. Re5 Qb7 22. Rce1 h6 23. Qf5 Qd7 24. Qxd7 Rxd7 25. Na2 Rdd8 26. Rf5 Rfe8 27. Rxe8+ Nxe8 28. Nb4 Nc7 29. Kf1 Ne6 30. c3 Nc7 31. Ke2 Rd6 32. Re5 a5 33. Nc2 Re6 34. Rxe6 Nxe6 35. g3 g5 36. Kf3 f5 37. Ne3 Nc7 38. Nxf5 Kh7 39. Kg4 Kg6 40. Ne7+ Kf7 41. Nc6 a4 42. Kf5 Ne8 43. Ke5 Nf6 44. f3 Kg6 45. Ne7+ Kf7 46. Nxd5 Nxd5 47. Kxd5 1-0
+
+
+[Event "Rated Classical game"]
+[Site "https://lichess.org/CI3haTcY"]
+[Date "2020.11.16"]
+[White "shenmoxiao"]
+[Black "tintu123"]
+[Result "1-0"]
+[UTCDate "2020.11.16"]
+[UTCTime "19:43:53"]
+[WhiteElo "1151"]
+[BlackElo "1689"]
+[WhiteRatingDiff "+646"]
+[BlackRatingDiff "-17"]
+[Variant "Standard"]
+[TimeControl "4500+15"]
+[ECO "D12"]
+[Termination "Normal"]
+
+1. d4 c5 2. c3 cxd4 3. cxd4 Nf6 4. Nf3 d5 5. Nc3 Bf5 6. e3 a6 7. Bd3 Ne4 8. Qb3 Nc6 9. Nh4 e6 10. Nxf5 exf5 11. O-O Nb4 12. Bxe4 fxe4 13. a3 Nd3 14. Nxd5 Rc8 15. Nc3 Qh4 16. Qxb7 Rd8 17. Qxe4+ Qxe4 18. Nxe4 f5 19. Ng3 g6 20. Bd2 Nxb2 21. Bb4 Bxb4 22. axb4 O-O 23. Rfb1 Nd3 24. Rxa6 Rb8 25. b5 Rfc8 26. b6 Rc2 27. Ra7 Rxf2 28. b7 Rb2 29. Rxb2 1-0
+
+
+[Event "Rated Classical game"]
+[Site "https://lichess.org/yGlsu8TT"]
+[Date "2020.11.16"]
+[White "AbhishekBadhe29"]
+[Black "Believer2145"]
+[Result "1-0"]
+[UTCDate "2020.11.16"]
+[UTCTime "19:29:58"]
+[WhiteElo "1816"]
+[BlackElo "1232"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-26"]
+[Variant "Standard"]
+[TimeControl "2700+15"]
+[ECO "B72"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. Be2 O-O 8. O-O Nc6 9. Nxc6 bxc6 10. f3 Bb7 11. Qd2 Re8 12. Bh6 Rc8 13. Bxg7 Kxg7 14. Kh1 c5 15. Bc4 Bc6 16. Rae1 Qb6 17. b3 Qb8 18. f4 Rcd8 19. f5 Qb7 20. fxg6 fxg6 21. Rf3 Nxe4 22. Rf7+ Kh8 23. Qh6 Nf2+ 24. Kg1 Nh3+ 25. gxh3 e5 26. Qxh7# 1-0
+
+
+[Event "Rated Classical game"]
+[Site "https://lichess.org/RqAIWQMQ"]
+[Date "2020.11.16"]
+[White "ace7872"]
+[Black "superfluity"]
+[Result "1-0"]
+[UTCDate "2020.11.16"]
+[UTCTime "19:26:34"]
+[WhiteElo "1158"]
+[BlackElo "1769"]
+[WhiteRatingDiff "+493"]
+[BlackRatingDiff "-31"]
+[Variant "Standard"]
+[TimeControl "2700+15"]
+[ECO "B24"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. Nge2 Nf6 6. d3 d6 7. O-O O-O 8. Bg5 h6 9. Bxf6 Bxf6 10. Qd2 Kg7 11. Rab1 e6 12. f4 a6 13. a3 b5 14. e5 dxe5 15. Bxc6 Ra7 16. fxe5 Bxe5 17. Bg2 Rd7 18. b3 c4 19. bxc4 bxc4 20. Nc1 Qa5 21. Ne4 Qxa3 22. Qe2 cxd3 23. Nxd3 Bd4+ 24. Kh1 e5 25. Rb8 f5 26. Nd2 Qd6 27. Rbb1 e4 28. Nf4 a5 29. Nb3 Ba6 30. Qe1 Bxf1 31. Nxd4 Bxg2+ 32. Kxg2 g5 33. Nfe6+ Kg8 34. Nxf8 Kxf8 35. Nxf5 Qd5 36. Qf2 e3+ 37. Qf3 Qd2+ 38. Kh3 Rf7 39. Rb8+ 1-0
+
+
+[Event "Rated Classical game"]
+[Site "https://lichess.org/Hb1Tdqyt"]
+[Date "2020.11.16"]
+[White "KariAndresson"]
+[Black "JacobLamsdale"]
+[Result "1-0"]
+[UTCDate "2020.11.16"]
+[UTCTime "19:29:03"]
+[WhiteElo "1252"]
+[BlackElo "1192"]
+[WhiteRatingDiff "+21"]
+[BlackRatingDiff "-160"]
+[Variant "Standard"]
+[TimeControl "2700+15"]
+[ECO "C55"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 h6 5. O-O Ng4 6. h3 h5 7. c3 b6 8. Ng5 d5 9. Bxd5 Be6 10. Bxc6+ Bd7 11. Bd5 Be6 12. Bxa8 Qxa8 13. Nxe6 fxe6 14. Qa4+ c6 15. Na3 b5 16. Qd1 Qd8 17. d4 Qf6 18. Qf3 Qd8 19. Rd1 Nf6 20. dxe5 Nd7 21. Bf4 g5 22. Bh2 g4 23. hxg4 Qg5 24. Qf4 Qd8 25. g5 Qb6 26. g6 Bh6 27. Qf7+ 1-0
+
+
